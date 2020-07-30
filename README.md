@@ -1,1 +1,1 @@
-# unity-cookbook-2020-ch06-09-2d-collision-matrix
+# unity-cookbook-2020-ch06-09-editing-polygon-colliders
